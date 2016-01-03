@@ -1,5 +1,7 @@
 # let-me-see-you
-Simple python script that takes a webcam photo and stores it to file system. It's supposed to be added to system startup to be able to see who is using your pc when you're not there ;-)
+Simple python script that takes a webcam photo and stores it to file system. It's supposed to be added to system startup to be able to see who is using your pc when you're not there ;-) 
+
+taken photos will be stored in user home directory at folder named *.captures*
 
 # Installation
 For this script to run OpenCV should be set up.
